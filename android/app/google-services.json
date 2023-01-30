@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "934588973412",
+    "project_id": "match-a-muslim-978ca",
+    "storage_bucket": "match-a-muslim-978ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934588973412:android:280d585e16441501c3ba71",
+        "android_client_info": {
+          "package_name": "com.example.dating_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934588973412-rkv5hl2smg638iu79ihsr5veut6e3fe2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRyF5vh_j8CfaVr_DSIlGgKtB7wQBkjdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "934588973412-rkv5hl2smg638iu79ihsr5veut6e3fe2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
